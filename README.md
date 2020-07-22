@@ -1,6 +1,6 @@
 ### Welcome everyone to my profile. 🖥
 
-## Background  ##
+# Background  #
 
 My name is Sabin Constantin Lungu, I am originally from Romania, I moved to the United Kingdom when I was 3 years old. I am studying a Master's in Software Engineering, my goal is to develop front-end and back-end Web Applications (Full-stack) using HTML, CSS, JavaScript as the main front-end stack and also learning the following front-end frameworks to build complex web applications:
 
@@ -21,7 +21,7 @@ As well as utilising these front-end technologies, I am also learning these back
 5. SQL
 
 
-## Skills ##
+# Skills #
 
 Programming Languages: **Java, C#**
 
@@ -48,11 +48,11 @@ Software Design: **UML Class Diagrams, Sequence Diagrams, Flowcharts**
 - 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
 - ⚡ Fun fact: **I love working out at the gym in my free time, I also love to read Software Engineering books and to study**
 
-# Statistics
+# Statistics #
 
 ![Sabin Lungu's github stats](https://github-readme-stats.vercel.app/api?username=sabinlungudotcpp&hide=["issues"]&show_icons=true)
 
-# Social Media
+# Social Media #
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sabinlungudotcpp)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-constantin-lungu-73b751101/)
