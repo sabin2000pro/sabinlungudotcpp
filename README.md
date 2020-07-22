@@ -2,7 +2,7 @@
 
 ## Who am I ? ##
 
-My name is Sabin Constantin Lungu, I am originally from Romania, I moved to the United Kingdom when I was 3 years old. I am studying a Master's in Software Engineering, my goal is to develop really complicated front-end and back-end Web Applications using HTML, CSS, JavaScript as the main front-end stack and also I am going to learn the following front-end frameworks to start building really complex web applications:
+My name is Sabin Constantin Lungu, I am originally from Romania, I moved to the United Kingdom when I was 3 years old. I am studying a Master's in Software Engineering, my goal is to develop complicated front-end and back-end Web Applications using HTML, CSS, JavaScript as the main front-end stack and also I am going to learn the following front-end frameworks to start building really complex web applications:
 
 1. AngularJS
 2. ReactJS
