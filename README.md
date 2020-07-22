@@ -20,13 +20,22 @@ As well as utilising these front-end technologies, I am also learning these back
 
 5. SQL
 
-# Programming Languages
-
-**Java**
-
-**C#**
 
 ## Skills ##
+
+Programming Languages: Java, C#
+
+HTML, CSS, JavaScript
+
+Libraries / Frameworks: NodeJS, ExpressJS
+
+Databases: SQL / MongoDB, Mongoose
+
+Tools: Docker Software Containerisation, Travis Continuous Integration (CI) & Version Control w/ Git
+
+Full Software Development Life Cycle (Waterfall Method)
+
+Agile Methodologies
 
 -> **HTML**
 
@@ -52,7 +61,7 @@ As well as utilising these front-end technologies, I am also learning these back
 - 🔭 I’m currently working on: **Leaf - An electric car rental Web Application that encourages people to stop driving their petrol and diesel cars that harm the environment and to sign up for a subscription plan that allows people to rent electric cars of their choice for a cheap price per month. Take a look at my project in my repositories if you are interested more about it.**
 
 
-- 🌱 I’m currently learning: **NodeJS, ExpressJS, MongoDB, Mongoose, Templating Engines (Pug), Java**
+- 🌱 I’m currently learning: **MERN Stack, AngularJS to develop Full-Stack web applications**
 - 👯 I’m looking to collaborate on: **Open-source projects.**
 - 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
 - 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
