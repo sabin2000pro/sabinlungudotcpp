@@ -51,3 +51,6 @@ As well as utilising these front-end technologies, I am also learning these back
 - 💬 Ask me about: **Things you would like to know about me, ask me questions about my Software Engineering projects and other things that interests you or what you would like to find out more.**
 - 📫 How to reach me: **You can find me on LinkedIn and Facebook.**
 - ⚡ Fun fact: **I love working out at the gym in my free time, I also love to read Software Engineering books and to study**
+
+
+![Sabin Lungu's github stats](https://github-readme-stats.vercel.app/api?username=sabinlungudotcpp&hide=["issues"]&show_icons=true)
