@@ -31,9 +31,9 @@ As well as utilising these front-end technologies, I am also learning these back
 
 - Tools: **Docker Software Containerisation, Travis Continuous Integration (CI) & Version Control w/ Git**
 
-- Software Engineering: Full Software Development Life Cycle (Waterfall Method)
+- Software Engineering: **Full Software Development Life Cycle (Waterfall Method)**
 
-- Agile Methodologies (SCRUM, Kanban)
+- Agile Methodologies: **SCRUM**
 
 - Software Design: **UML Class Diagrams, Sequence Diagrams, Flowcharts**
 
