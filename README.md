@@ -23,22 +23,21 @@ As well as utilising these front-end technologies, I am also learning these back
 
 ## Skills ##
 
-Programming Languages: Java, C#
+Programming Languages: **Java, C#**
 
-HTML, CSS, JavaScript
+**HTML, CSS, JavaScript**
 
-Libraries / Frameworks: NodeJS, ExpressJS
+Libraries / Frameworks: **NodeJS, ExpressJS**
 
-Databases: SQL / MongoDB, Mongoose
+Databases: **SQL / MongoDB, Mongoose**
 
-Tools: Docker Software Containerisation, Travis Continuous Integration (CI) & Version Control w/ Git
+Tools: **Docker Software Containerisation, Travis Continuous Integration (CI) & Version Control w/ Git**
 
 Full Software Development Life Cycle (Waterfall Method)
 
-Agile Methodologies
+Agile Methodologies (SCRUM, Kanban)
 
-Unified Modelling Language Software Design (UML)
-
+Software Design: **UML Class Diagrams, Sequence Diagrams, Flowcharts**
 
 - 🔭 I’m currently working on: **Leaf - An electric car rental Web Application that encourages people to stop driving their petrol and diesel cars that harm the environment and to sign up for a subscription plan that allows people to rent electric cars of their choice for a cheap price per month. Take a look at my project in my repositories if you are interested more about it.**
 
@@ -52,3 +51,9 @@ Unified Modelling Language Software Design (UML)
 # Statistics
 
 ![Sabin Lungu's github stats](https://github-readme-stats.vercel.app/api?username=sabinlungudotcpp&hide=["issues"]&show_icons=true)
+
+# Social Media
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sabinlungudotcpp)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-constantin-lungu-73b751101/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sabinlunguu/)
