@@ -23,7 +23,7 @@ As well as utilising these front-end technologies, I am also learning these back
 
 Programming Languages: **Java, C#**
 
-**HTML, CSS, JavaScript**
+Web Languages: **HTML, CSS**
 
 Libraries/Frameworks: **NodeJS, ExpressJS**
 
