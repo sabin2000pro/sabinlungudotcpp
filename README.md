@@ -37,6 +37,10 @@ As well as utilising these front-end technologies, I am also learning these back
 
 - Software Design: **UML Class Diagrams, Sequence Diagrams, Flowcharts**
 
+# Technologies I use #
+
+- <img src="https://camo.githubusercontent.com/32695585a403bbfb757e6d57b9119a2146a161e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&amp;logo=html5&amp;logoColor=ffffff" style="max-width:100%;">
+
 # Facts #
 
 - 🔭 I’m currently working on: **Leaf - An electric car rental Web Application that encourages people to stop driving their petrol and diesel cars that harm the environment and to sign up for a subscription plan that allows people to rent electric cars of their choice for a cheap price per month. Take a look at my project in my repositories if you are interested more about it.**
