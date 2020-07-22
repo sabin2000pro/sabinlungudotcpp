@@ -20,6 +20,12 @@ As well as utilising these front-end technologies, I am also learning these back
 
 5. SQL
 
+# Programming Languages
+
+**Java**
+
+**C#**
+
 ## Skills ##
 
 -> **HTML**
