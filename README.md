@@ -21,21 +21,21 @@ As well as utilising these front-end technologies, I am also learning these back
 
 # Skills #
 
-Programming Languages: **Java, C#**
+- Programming Languages: **Java, C#**
 
-Web Languages: **HTML, CSS**
+- Web Languages: **HTML, CSS**
 
-Libraries/Frameworks: **NodeJS, ExpressJS**
+- Libraries/Frameworks: **NodeJS, ExpressJS**
 
-Databases/ODM: **SQL / MongoDB, Mongoose**
+- Databases/ODM: **SQL / MongoDB, Mongoose**
 
-Tools: **Docker Software Containerisation, Travis Continuous Integration (CI) & Version Control w/ Git**
+- Tools: **Docker Software Containerisation, Travis Continuous Integration (CI) & Version Control w/ Git**
 
-Full Software Development Life Cycle (Waterfall Method)
+- Software Engineering: Full Software Development Life Cycle (Waterfall Method)
 
-Agile Methodologies (SCRUM, Kanban)
+- Agile Methodologies (SCRUM, Kanban)
 
-Software Design: **UML Class Diagrams, Sequence Diagrams, Flowcharts**
+- Software Design: **UML Class Diagrams, Sequence Diagrams, Flowcharts**
 
 - 🔭 I’m currently working on: **Leaf - An electric car rental Web Application that encourages people to stop driving their petrol and diesel cars that harm the environment and to sign up for a subscription plan that allows people to rent electric cars of their choice for a cheap price per month. Take a look at my project in my repositories if you are interested more about it.**
 
