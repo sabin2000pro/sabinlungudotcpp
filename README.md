@@ -27,9 +27,9 @@ Programming Languages: **Java, C#**
 
 **HTML, CSS, JavaScript**
 
-Libraries / Frameworks: **NodeJS, ExpressJS**
+Libraries/Frameworks: **NodeJS, ExpressJS**
 
-Databases: **SQL / MongoDB, Mongoose**
+Databases/ODM: **SQL / MongoDB, Mongoose**
 
 Tools: **Docker Software Containerisation, Travis Continuous Integration (CI) & Version Control w/ Git**
 
