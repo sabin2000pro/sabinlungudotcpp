@@ -37,25 +37,7 @@ Full Software Development Life Cycle (Waterfall Method)
 
 Agile Methodologies
 
--> **HTML**
-
--> **CSS**
-
--> **NodeJS**
-
--> **ExpressJS**
-
--> **Java**
-
--> **Docker**
-
--> **Unified Modelling Language Software Design (UML)**
-
--> **Docker Software Containerisation**.
-
--> **Continuous Integration with Travis CI**.
-
--> **Version Control using Git**
+Unified Modelling Language Software Design (UML)
 
 
 - 🔭 I’m currently working on: **Leaf - An electric car rental Web Application that encourages people to stop driving their petrol and diesel cars that harm the environment and to sign up for a subscription plan that allows people to rent electric cars of their choice for a cheap price per month. Take a look at my project in my repositories if you are interested more about it.**
