@@ -23,13 +23,13 @@ As well as utilising these front-end technologies, I am also learning these back
 
 - Programming Languages: **Java, C#**
 
-- Web Languages: **HTML, CSS**
+- Web Languages: **HTML/CSS**
 
-- Libraries/Frameworks: **NodeJS, ExpressJS**
+- Libraries/Frameworks: **NodeJS/ExpressJS**
 
-- Databases/ODM: **SQL / MongoDB, Mongoose**
+- Databases/ODM: **SQL/MongoDB, Mongoose**
 
-- Tools: **Docker Software Containerisation, Travis Continuous Integration (CI) & Version Control w/ Git**
+- Tools: **Docker/Travis Continuous Integration (CI) & Version Control w/ Git**
 
 - Software Engineering: **Full Software Development Life Cycle (Waterfall Method)**
 
