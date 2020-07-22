@@ -37,8 +37,9 @@ As well as utilising these front-end technologies, I am also learning these back
 
 - Software Design: **UML Class Diagrams, Sequence Diagrams, Flowcharts**
 
-- 🔭 I’m currently working on: **Leaf - An electric car rental Web Application that encourages people to stop driving their petrol and diesel cars that harm the environment and to sign up for a subscription plan that allows people to rent electric cars of their choice for a cheap price per month. Take a look at my project in my repositories if you are interested more about it.**
+# Facts #
 
+- 🔭 I’m currently working on: **Leaf - An electric car rental Web Application that encourages people to stop driving their petrol and diesel cars that harm the environment and to sign up for a subscription plan that allows people to rent electric cars of their choice for a cheap price per month. Take a look at my project in my repositories if you are interested more about it.**
 
 - 🌱 I’m currently learning: **MERN Stack, AngularJS to develop Full-Stack web applications**
 - 👯 I’m looking to collaborate on: **Open-source projects.**
