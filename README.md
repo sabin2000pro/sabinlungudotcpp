@@ -20,7 +20,7 @@ As well as utilising these front-end technologies, I am also learning these back
 
 5. SQL
 
-## Skills I have ##
+## Skills ##
 
 -> **HTML**
 
