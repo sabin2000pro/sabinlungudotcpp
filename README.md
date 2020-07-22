@@ -45,6 +45,10 @@ As well as utilising these front-end technologies, I am also learning these back
 
 <img src="https://camo.githubusercontent.com/b3b7c945d9fcab6d5c7c9bb0c94d2b0a9042c09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" style="max-width:100%;">
 
+<img src="https://camo.githubusercontent.com/6e79f3bc2d49bfe1427af244bf10a9f1cef902ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666" alt="VS Code" data-canonical-src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width:100%;">
+
+<img src="https://camo.githubusercontent.com/b442f8d12bb191a3c0b05e8a70567bf685cdda0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&amp;logo=git&amp;logoColor=%23ffffff" style="max-width:100%;">
+
 # Facts #
 
 - 🔭 I’m currently working on: **Leaf - An electric car rental Web Application that encourages people to stop driving their petrol and diesel cars that harm the environment and to sign up for a subscription plan that allows people to rent electric cars of their choice for a cheap price per month. Take a look at my project in my repositories if you are interested more about it.**
