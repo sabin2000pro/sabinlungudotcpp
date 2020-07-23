@@ -31,7 +31,7 @@ As well as utilising these front-end technologies, I am also learning these back
 
 - Databases/ODM: **SQL/MongoDB, Mongoose**
 
-- Tools: **Docker/Travis Continuous Integration (CI) & Version Control w/ Git**
+- Tools: **Docker Software Containerisation, Travis Continuous Integration / Deployment (CI/CD) & Version Control w/ Git**
 
 - Software Engineering: **Full Software Development Life Cycle (Waterfall Method)**
 
