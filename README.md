@@ -17,7 +17,7 @@ As well as utilising these front-end frameworks, I am also learning these back-e
 
 # Skills #
 
-- Programming Languages: **Java, C#**
+- Programming Languages: <img src="https://camo.githubusercontent.com/ca0099e1ac7d35527b62769a9d26784d47db531d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2545322539382538352545322539382538352545322539382538352545322539382538352545322539382538352d696d706f7274616e74" data-canonical-src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" style="max-width:100%;"> C#**
 
 - Web Languages: **HTML/CSS**
 
