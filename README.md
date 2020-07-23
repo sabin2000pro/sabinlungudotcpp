@@ -21,7 +21,7 @@ I also develop Android mobile applications using **Java as an Object-Oriented Pr
 
 - Databases - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=SQL&logo=MySQL&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=MongoDB&logo=MongoDB&logoColor=Green&style=for-the-badge">
 
-- Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge">
+- Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Yellow&label=Travis&logo=Travis&logoColor=Yelllow&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
 
 - Software Engineering: **Full Software Development Life Cycle (Waterfall Method)**
 
