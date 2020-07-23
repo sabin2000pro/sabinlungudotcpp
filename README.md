@@ -5,6 +5,8 @@
 
 My name is Sabin Constantin Lungu, I am originally from Romania, I moved to the United Kingdom when I was 3 years old. I am studying a Master's in Software Engineering, my goal is to develop front-end and back-end Web Applications (Full-stack) using HTML, CSS & JavaScript as the main front-end stack and NodeJS, ExpressJS, MongoDB & Mongoose as the back-end server-side stack.
 
+I am also looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
+
 I also develop Android mobile applications using **Java as an Object-Oriented Programming Language (OOP)**
 
 As well as utilising these front-end frameworks, I am also learning these back-end frameworks to implement code on the server-side of my Web Application projects:
