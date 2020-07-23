@@ -36,23 +36,7 @@ As well as utilising these front-end frameworks, I am also learning these back-e
 
 - Software Design: **UML Class Diagrams, Sequence Diagrams, Flowcharts**
 
-# Technologies #
 
-<img src="https://camo.githubusercontent.com/32695585a403bbfb757e6d57b9119a2146a161e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&amp;logo=html5&amp;logoColor=ffffff" style="max-width:100%;">
-
-<img src="https://camo.githubusercontent.com/6a36784cf6b9088ea7943b38d217d53689c4c8de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&amp;logo=css3" style="max-width:100%;">
-
-<img src="https://camo.githubusercontent.com/8153de466387f65a3af42613febb9764b66bec8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=%23F7DF1C&amp;color=%23FFCE5A" style="max-width:100%;">
-
-<img src="https://camo.githubusercontent.com/b3b7c945d9fcab6d5c7c9bb0c94d2b0a9042c09e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Nodejs" data-canonical-src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&amp;logo=Node.js" style="max-width:100%;">
-
-<img src="https://camo.githubusercontent.com/6e79f3bc2d49bfe1427af244bf10a9f1cef902ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666" alt="VS Code" data-canonical-src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width:100%;">
-
-<img src="https://camo.githubusercontent.com/b442f8d12bb191a3c0b05e8a70567bf685cdda0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d2532334630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d253233666666666666" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&amp;logo=git&amp;logoColor=%23ffffff" style="max-width:100%;">
-
-<img src="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;">
-
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f727a434e8503e5143f5e7afb2d0c5425ddc91e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572"><img src="https://camo.githubusercontent.com/f727a434e8503e5143f5e7afb2d0c5425ddc91e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" style="max-width:100%;"></a>
 
 # Facts #
 
