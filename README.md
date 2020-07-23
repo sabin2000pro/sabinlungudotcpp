@@ -9,26 +9,16 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 I also develop Android mobile applications using **Java as an Object-Oriented Programming Language (OOP)**
 
-As well as utilising these front-end frameworks, I am also learning these back-end frameworks to implement code on the server-side of my Web Application projects:
-
-- NodeJS
-
-- ExpressJS
-
-- MongoDB
-
-- Mongoose (Data Modelling)
-
 
 # Skills #
 
-- Programming Languages: <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=Orange&label=Java&logo=Java&logoColor=Orange">
+- Programming Languages - <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=Orange&label=Java&logo=Java&logoColor=Orange">
 
-- Web Languages: **HTML/CSS**
+- Web Languages - **HTML/CSS**
 
 - Libraries/Frameworks: **NodeJS/ExpressJS**
 
-- Databases/ODM: <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=SQL&logo=MySQL&logoColor=Blue&style=for-the-badge">
+- Databases - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=SQL&logo=MySQL&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=MongoDB&logo=MongoDB&logoColor=Green&style=for-the-badge">
 
 - Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge">
 
