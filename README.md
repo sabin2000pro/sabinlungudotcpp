@@ -12,7 +12,7 @@ I also develop Android mobile applications using **Java as an Object-Oriented Pr
 
 # Skills #
 
-- Programming Languages - <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=Orange&label=Java&logo=Java&logoColor=Orange">
+- Programming Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Orange&label=Java&logo=Java&logoColor=Orange&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=C%23&logo=C%20Sharp&logoColor=Green&style=for-the-badge">
 
 - Web Languages - **HTML/CSS**
 
