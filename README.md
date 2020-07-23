@@ -28,7 +28,7 @@ As well as utilising these front-end frameworks, I am also learning these back-e
 
 - Databases/ODM: **SQL/MongoDB, Mongoose**
 
-- Tools: **Docker Software Containerisation, Travis Continuous Integration / Deployment (CI/CD) & Version Control w/ Git**
+- Tools: <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker">, Travis Continuous Integration / Deployment (CI/CD) & Version Control w/ Git**
 
 - Software Engineering: **Full Software Development Life Cycle (Waterfall Method)**
 
