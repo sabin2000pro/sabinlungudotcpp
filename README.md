@@ -1,6 +1,7 @@
 # Background  #
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)  [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+
 
 
 My name is Sabin Constantin Lungu, I am originally from Romania, I moved to the United Kingdom when I was 3 years old. I am studying a Master's in Software Engineering, my goal is to develop front-end and back-end Web Applications (Full-stack) using HTML, CSS & JavaScript as the main front-end stack and NodeJS, ExpressJS, MongoDB & Mongoose as the back-end server-side stack.
