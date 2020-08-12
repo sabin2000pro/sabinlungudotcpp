@@ -8,9 +8,6 @@ My name is Sabin Constantin Lungu, I am originally from Romania, I moved to the 
 
 I am also looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
 
-I also develop Android mobile applications using **Java as an Object-Oriented Programming Language (OOP)**
-
-
 # Skills #
 
 - Programming Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Orange&label=Java&logo=Java&logoColor=Orange&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=C%23&logo=C%20Sharp&logoColor=Green&style=for-the-badge">
